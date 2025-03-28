@@ -1,45 +1,56 @@
 Privacy Policy
-
 Effective Date: 2024-08-02
 
-OneClickHR is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application, OneClickHR. By using our app, you agree to the collection and use of information in accordance with this policy.
+Welcome to OneClick HR Management App. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 
 1. Information We Collect
+We collect the following types of information:
 
-Personal Information: When you use OneClickHR, we may collect personal information such as your name, email address, and employee ID to manage attendance and leave requests.
-Attendance Data: We collect information related to your attendance, including check-in and check-out times.
-Leave Data: We collect data regarding leave requests, including the type of leave and dates requested.
+1.1 Personal Information
+Name, email, phone number, company details (for account registration).
+
+Payment information for subscription processing (handled securely by PayHere).
+
+1.2 Usage Data
+Device information (IP address, operating system, browser type).
+
+App usage statistics and interactions.
+
+1.3 Employee & HR Data
+Employee details such as job roles, attendance, leaves, and salaries (as entered by company users).
+
 2. How We Use Your Information
+We use your information for:
+✅ Account creation and authentication.
+✅ HR management functions (employee tracking, payroll, leave management).
+✅ Subscription management and payment processing.
+✅ Improving user experience and security.
 
-We use the collected information to:
+3. Data Sharing & Security
+🔒 We do not sell or share your personal data with third parties, except:
 
-Manage and track employee attendance and leave requests.
-Provide real-time updates and notifications related to attendance and leave.
-Improve the functionality and user experience of OneClickHR.
-Communicate with you about updates, support, and other important information related to the app.
-3. Data Security
+Payment Processing: Transactions are securely processed via PayHere.
 
-We implement appropriate technical and organizational measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure.
+Legal Compliance: If required by law enforcement or legal processes.
 
-4. Sharing Your Information
+We use encryption and security measures to protect your data from unauthorized access.
 
-We do not sell, trade, or otherwise transfer your personal information to outside parties except as required by law or to comply with legal obligations.
+4. User Rights & Data Control
+You have the right to:
+✔️ Access, update, or delete your account data.
+✔️ Request a copy of your stored data.
+✔️ Opt out of marketing communications.
 
-5. Data Retention
+To exercise these rights, contact us at [Your Support Email].
 
-We retain your personal information for as long as necessary to fulfill the purposes for which it was collected, or as required by law.
+5. Subscription & Data Retention
+If you cancel your subscription, your data may be retained for [X months] before permanent deletion.
 
-6. Your Rights
+If a payment fails, access to the app may be restricted until payment is resolved.
 
-You have the right to access, correct, or delete your personal information. If you wish to exercise these rights, please contact us at [contact email].
+6. Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be communicated via email or in-app notifications.
 
-7. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
-
-8. Contact Us
-
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
-
-OneClickHR Support
-Email: oneclickhrapp@gmail.com
+7. Contact Us
+For any privacy-related concerns, contact us at:
+📩 oneclickhrapp@gmail.com
