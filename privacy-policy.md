@@ -2,7 +2,7 @@ Privacy Policy
 
 Effective Date: 2024-08-02
 
-OneClickHR is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application, NetHR. By using our app, you agree to the collection and use of information in accordance with this policy.
+OneClickHR is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application, OneClickHR. By using our app, you agree to the collection and use of information in accordance with this policy.
 
 1. Information We Collect
 
